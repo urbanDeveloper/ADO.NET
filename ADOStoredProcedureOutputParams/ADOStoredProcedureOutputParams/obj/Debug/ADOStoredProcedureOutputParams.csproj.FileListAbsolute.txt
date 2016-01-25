@@ -1,0 +1,6 @@
+c:\users\sunny\documents\visual studio 2013\Projects\ADOStoredProcedureOutputParams\ADOStoredProcedureOutputParams\bin\ADOStoredProcedureOutputParams.dll.config
+c:\users\sunny\documents\visual studio 2013\Projects\ADOStoredProcedureOutputParams\ADOStoredProcedureOutputParams\bin\ADOStoredProcedureOutputParams.dll
+c:\users\sunny\documents\visual studio 2013\Projects\ADOStoredProcedureOutputParams\ADOStoredProcedureOutputParams\bin\ADOStoredProcedureOutputParams.pdb
+c:\users\sunny\documents\visual studio 2013\Projects\ADOStoredProcedureOutputParams\ADOStoredProcedureOutputParams\obj\Debug\ADOStoredProcedureOutputParams.csprojResolveAssemblyReference.cache
+c:\users\sunny\documents\visual studio 2013\Projects\ADOStoredProcedureOutputParams\ADOStoredProcedureOutputParams\obj\Debug\ADOStoredProcedureOutputParams.dll
+c:\users\sunny\documents\visual studio 2013\Projects\ADOStoredProcedureOutputParams\ADOStoredProcedureOutputParams\obj\Debug\ADOStoredProcedureOutputParams.pdb

@@ -1,0 +1,6 @@
+c:\users\sunny\documents\visual studio 2013\Projects\SqlInsertParmsValue\SqlInsertParmsValue\bin\SqlInsertParmsValue.dll.config
+c:\users\sunny\documents\visual studio 2013\Projects\SqlInsertParmsValue\SqlInsertParmsValue\bin\SqlInsertParmsValue.dll
+c:\users\sunny\documents\visual studio 2013\Projects\SqlInsertParmsValue\SqlInsertParmsValue\bin\SqlInsertParmsValue.pdb
+c:\users\sunny\documents\visual studio 2013\Projects\SqlInsertParmsValue\SqlInsertParmsValue\obj\Debug\SqlInsertParmsValue.csprojResolveAssemblyReference.cache
+c:\users\sunny\documents\visual studio 2013\Projects\SqlInsertParmsValue\SqlInsertParmsValue\obj\Debug\SqlInsertParmsValue.dll
+c:\users\sunny\documents\visual studio 2013\Projects\SqlInsertParmsValue\SqlInsertParmsValue\obj\Debug\SqlInsertParmsValue.pdb

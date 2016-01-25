@@ -1,0 +1,6 @@
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetSqlCommands\AdoNetSqlCommands\bin\AdoNetSqlCommands.dll.config
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetSqlCommands\AdoNetSqlCommands\bin\AdoNetSqlCommands.dll
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetSqlCommands\AdoNetSqlCommands\bin\AdoNetSqlCommands.pdb
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetSqlCommands\AdoNetSqlCommands\obj\Debug\AdoNetSqlCommands.csprojResolveAssemblyReference.cache
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetSqlCommands\AdoNetSqlCommands\obj\Debug\AdoNetSqlCommands.dll
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetSqlCommands\AdoNetSqlCommands\obj\Debug\AdoNetSqlCommands.pdb

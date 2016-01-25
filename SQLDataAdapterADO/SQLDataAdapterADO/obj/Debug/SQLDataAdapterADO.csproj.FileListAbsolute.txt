@@ -1,0 +1,6 @@
+C:\Users\Sunny\documents\visual studio 2013\Projects\SQLDataAdapterADO\SQLDataAdapterADO\obj\Debug\SQLDataAdapterADO.csprojResolveAssemblyReference.cache
+C:\Users\Sunny\documents\visual studio 2013\Projects\SQLDataAdapterADO\SQLDataAdapterADO\bin\SQLDataAdapterADO.dll.config
+C:\Users\Sunny\documents\visual studio 2013\Projects\SQLDataAdapterADO\SQLDataAdapterADO\bin\SQLDataAdapterADO.dll
+C:\Users\Sunny\documents\visual studio 2013\Projects\SQLDataAdapterADO\SQLDataAdapterADO\bin\SQLDataAdapterADO.pdb
+C:\Users\Sunny\documents\visual studio 2013\Projects\SQLDataAdapterADO\SQLDataAdapterADO\obj\Debug\SQLDataAdapterADO.dll
+C:\Users\Sunny\documents\visual studio 2013\Projects\SQLDataAdapterADO\SQLDataAdapterADO\obj\Debug\SQLDataAdapterADO.pdb

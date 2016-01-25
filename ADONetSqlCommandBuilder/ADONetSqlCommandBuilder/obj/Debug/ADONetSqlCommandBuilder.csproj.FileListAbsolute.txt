@@ -1,0 +1,6 @@
+c:\users\sunny\documents\visual studio 2013\Projects\ADONetSqlCommandBuilder\ADONetSqlCommandBuilder\bin\ADONetSqlCommandBuilder.dll.config
+c:\users\sunny\documents\visual studio 2013\Projects\ADONetSqlCommandBuilder\ADONetSqlCommandBuilder\bin\ADONetSqlCommandBuilder.dll
+c:\users\sunny\documents\visual studio 2013\Projects\ADONetSqlCommandBuilder\ADONetSqlCommandBuilder\bin\ADONetSqlCommandBuilder.pdb
+c:\users\sunny\documents\visual studio 2013\Projects\ADONetSqlCommandBuilder\ADONetSqlCommandBuilder\obj\Debug\ADONetSqlCommandBuilder.csprojResolveAssemblyReference.cache
+c:\users\sunny\documents\visual studio 2013\Projects\ADONetSqlCommandBuilder\ADONetSqlCommandBuilder\obj\Debug\ADONetSqlCommandBuilder.dll
+c:\users\sunny\documents\visual studio 2013\Projects\ADONetSqlCommandBuilder\ADONetSqlCommandBuilder\obj\Debug\ADONetSqlCommandBuilder.pdb

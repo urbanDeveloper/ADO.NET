@@ -1,0 +1,6 @@
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetTutorial\AdoNetTutorial\bin\AdoNetTutorial.dll.config
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetTutorial\AdoNetTutorial\bin\AdoNetTutorial.dll
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetTutorial\AdoNetTutorial\bin\AdoNetTutorial.pdb
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetTutorial\AdoNetTutorial\obj\Debug\AdoNetTutorial.csprojResolveAssemblyReference.cache
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetTutorial\AdoNetTutorial\obj\Debug\AdoNetTutorial.dll
+c:\users\sunny\documents\visual studio 2013\Projects\AdoNetTutorial\AdoNetTutorial\obj\Debug\AdoNetTutorial.pdb

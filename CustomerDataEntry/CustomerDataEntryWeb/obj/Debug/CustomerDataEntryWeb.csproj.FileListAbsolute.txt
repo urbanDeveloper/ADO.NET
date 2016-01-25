@@ -1,0 +1,5 @@
+C:\Documents and Settings\Sunny\Desktop\CustomerDataEntry\CustomerDataEntryWeb\bin\CustomerDataEntryWeb.dll
+C:\Documents and Settings\Sunny\Desktop\CustomerDataEntry\CustomerDataEntryWeb\bin\CustomerDataEntryWeb.pdb
+C:\Documents and Settings\Sunny\Desktop\CustomerDataEntry\CustomerDataEntryWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sunny\Desktop\CustomerDataEntry\CustomerDataEntryWeb\obj\Debug\CustomerDataEntryWeb.dll
+C:\Documents and Settings\Sunny\Desktop\CustomerDataEntry\CustomerDataEntryWeb\obj\Debug\CustomerDataEntryWeb.pdb

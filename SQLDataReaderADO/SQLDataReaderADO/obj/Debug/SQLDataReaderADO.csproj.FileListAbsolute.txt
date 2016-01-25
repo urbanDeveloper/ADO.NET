@@ -1,0 +1,6 @@
+c:\users\sunny\documents\visual studio 2013\Projects\SQLDataReaderADO\SQLDataReaderADO\bin\SQLDataReaderADO.dll.config
+c:\users\sunny\documents\visual studio 2013\Projects\SQLDataReaderADO\SQLDataReaderADO\bin\SQLDataReaderADO.dll
+c:\users\sunny\documents\visual studio 2013\Projects\SQLDataReaderADO\SQLDataReaderADO\bin\SQLDataReaderADO.pdb
+c:\users\sunny\documents\visual studio 2013\Projects\SQLDataReaderADO\SQLDataReaderADO\obj\Debug\SQLDataReaderADO.csprojResolveAssemblyReference.cache
+c:\users\sunny\documents\visual studio 2013\Projects\SQLDataReaderADO\SQLDataReaderADO\obj\Debug\SQLDataReaderADO.dll
+c:\users\sunny\documents\visual studio 2013\Projects\SQLDataReaderADO\SQLDataReaderADO\obj\Debug\SQLDataReaderADO.pdb
